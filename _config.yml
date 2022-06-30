@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Cameron Patterson"
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Doctoral Student of Space and Planetary Physics at Lancaster University"
   location         : "Lancaster, UK"
   employer         :
