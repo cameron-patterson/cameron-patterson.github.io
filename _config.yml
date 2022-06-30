@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Cameron Patterson"
 title_separator          : "-"
 name                     : &name "Cameron Patterson"
-description              : &description "PhD Student, Lancaster University, UK"
+description              : &description "Doctoral Student, Lancaster University, UK"
 url                      : https://cameron-patterson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cameron-patterson.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Cameron Patterson"
   avatar           : "profile.png"
-  bio              : "PhD Student of Space and Planetary Physics at Lancaster University, UK"
+  bio              : "Doctoral Student of Space and Planetary Physics at Lancaster University"
   location         : "Lancaster, UK"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/cameron-patterson-wales/"
+  linkedin         : "cameron-patterson-wales"
   orcid            : 
   pinterest        :
   soundcloud       :
