@@ -1,7 +1,8 @@
 ---
-title: "Space Weather Impacts on UK Railway Signalling"
+title: "Space Weather Impacts on Railway Signalling Systems in the United Kingdom"
 excerpt: "Space trains."
-collection: portfolio
+collection: research
 ---
 
 Space weather can impact trains.
+<img src="/images/1a. green.pdf" alt="Drawing" /> 
