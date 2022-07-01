@@ -5,4 +5,4 @@ collection: research
 ---
 
 Space weather can impact trains.
-<img src="/images/1a. green.pdf" alt="Drawing" /> 
+xfun::embed_file("/images/1a. green.pdf")
