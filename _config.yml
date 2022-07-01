@@ -184,6 +184,12 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+  china:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -241,6 +247,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _china
+  - scope:
+      path: ""
+      type: china
+    values:
+      layout: single
+      author_profile: true
+      share: true 
 
 # Sass/SCSS
 sass:
