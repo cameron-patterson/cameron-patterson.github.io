@@ -4,7 +4,8 @@ excerpt: "Space trains."
 collection: research
 ---
 
-Space weather can impact trains.
+## Signalling
 
-<object data="/images/1a. green.pdf" type="application/pdf" width="100%"> 
-</object>
+hi.
+
+<img src="/images/1a. green-1.jpg">
