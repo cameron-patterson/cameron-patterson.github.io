@@ -5,9 +5,4 @@ permalink: /china/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
-{% for post in site.china %}
-  {% include archive-single.html %}
-{% endfor %}
+# Student Ambassador at the Lancaster University Confucius Institute
