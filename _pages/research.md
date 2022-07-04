@@ -1,3 +1,9 @@
+---
+layout: archive
+title: ""
+permalink: /research/
+author_profile: true
+---
 
 # Space Weather Impacts on Railway Signalling Systems in the United Kingdom
 
