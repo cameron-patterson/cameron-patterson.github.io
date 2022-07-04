@@ -43,16 +43,27 @@ When a track circuit relay that is supposed to be energised is de-energised due 
 
 Right-side failures can be caused by space weather if the geomagnetically induced currents are strong enough to oppose the charge of the power supply.
 
-Assume there are no trains occupying any of the blocks and consider a case where there is no geomagnetic storm and hence no geoelectric field, E, to induce currents in the ground. We see that all relays function normally, each one displaying a green/clear signal.
+Assume there are no trains occupying any of the blocks and consider a case where there is no geomagnetic storm and hence no geoelectric field, E, to induce currents in the ground, we see that all relays function normally, each one displaying a green/clear signal.
 
 <img src="/images/8. zero-1.jpg">
-<centre> <em> For no geoelectric field: the currents through each of the track circuit relays between Preston and Lancaster (left) and Glasgow to Edinburgh (right) with no geoelectric field applied, the blue dots indicate the current level and the dashed red line shows the threshold below which the track circuit would de-energise and fail to operate correctly. Below each plot is a schematic view of each signal and whether it is operating correctly, an unfilled green dot means normal operation and a filled red dot indicates a failure. </em> </centre>
+<centre> <em> For no geoelectric field: the currents through each of the track circuit relays between Preston and Lancaster (left) and Glasgow to Edinburgh (right) with no geoelectric field applied, the blue dots indicate the current level and the dashed red line shows the threshold below which the track circuit would de-energise and fail to operate correctly. Below each plot is a schematic view of each signal and whether it is operating correctly, an unfilled green dot means normal operation and a filled red dot indicates a failure. </em> </centre>  
 
-However, once we begin to apply a geoelectric field across the sections, we see the currents across the relays start to change. 
+<p><br />However, once we apply a geoelectric field to the sections, we see the currents across the relays start to change: for Glasgow to Edinburgh, there are signal failures at all geoelectric field strengths shown, with the fewest occurring at 2 V/km (5 failures) and the most occurring at -4 V/km (29 failures); for Preston to Lancaster, the signals all operate normally until a geoelectric field of -4 V/km is applied, causing 9 of the relays to fail. </p>
 
-<img src="/images/9. pl_non_zero-1.jpg">
-<centre> <em> Same as above, but for the Preston to Lancaster section with magnitudes and directions of geoelectric field applied </em> </centre>
+Preston to Lancaster has a higher tolerance due to it being near the centre of a much longer line. As is shown in Glasgow to Edinburgh, the relays towards the ends of the line fail at lower E values than the centre.
 
 <img src="/images/10. ge_non_zero-1.jpg">
-<centre> <em> In the absence of a train, for each of the geoelectric fields applied: the currents through each of the 61 track circuit relays between Glasgow and Edinburgh, the blue dots indicate the current level and the dashed red line shows the threshold below which the track circuit would de-energise and fail to operate correctly. Below each plot is a schematic view of each signal and whether it is operating correctly, an unfilled green dot means normal operation and a filled red dot indicates a failure. In this case, there are signal failures at all geoelectric field strengths chosen, with the fewest occurring at 2 V/km (5 failures) and the most occurring at -4 V/km (29 failures). </em> </centre>
+<centre> <em> Same as above, but for Glasgow to Edinburgh with different magnitudes and directions of geoelectric field applied. </em> </centre>
 
+<p><br /></p>
+
+  <img src="/images/9. pl_non_zero-1.jpg">
+<centre> <em> Same as above, but for  Preston to Lancaster. </em> </centre>
+
+## Wrong-side Failures
+
+When a track circuit relay that is supposed to be de-energised is energised, it is considered a 'wrong-side failure', this is a far more hazardous scenario, as drivers will not be indicated to stop even if there is a train occupying a section up ahead. However, there are usually secondary systems in place to detect the presence of a train in a block, so control centres can alert drivers to the signal issue.
+
+The potential for space weather to cause wrong-side failures is something I am currently working on, so please do check back at a later date as I will continually update this page as my research progresses.
+
+# Thanks for reading!
