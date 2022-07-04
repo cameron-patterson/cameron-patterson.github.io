@@ -13,7 +13,7 @@ The competition was televised and you can watch all episodes on YouTube [here](h
 <img src="/images/CB2.jpg">
 
 # Cardiff and Vale College
-From June 2019 to September 2020, I was the International Officer - China Progamme Specialist at Cardiff and Vale College in Wales. My duties involved recieving visiting groups of students and dignitaries from China to Cardiff and travelling to China to expand our business connections, involving meetings with schools, agencies and local and provincial governments.
+From June 2019 to September 2020, I was the International Officer - China Programme Specialist at Cardiff and Vale College in Wales. My duties involved receiving visiting groups of students and dignitaries from China to Cardiff and travelling to China to expand our business connections, involving meetings with schools, agencies and local and provincial governments.
 
 <img src="/images/CAVC1.jpg">
 
